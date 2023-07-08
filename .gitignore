@@ -160,4 +160,4 @@ cython_debug/
 #.idea/
 
 # HF transformers downloads
- notebooks/distilbert-base-uncased-finetuned-emotion**
+notebooks/distilbert-base-uncased-finetuned-emotion**
